@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "^4.1.1",
-    "ref": "fishg/ref#electron-8.x"
+    "ref": "fishg/ref#prebuild"
   },
   "devDependencies": {
     "bindings": "^1.5.0",
